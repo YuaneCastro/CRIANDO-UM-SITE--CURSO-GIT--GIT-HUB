@@ -1,0 +1,15 @@
+body{
+    background: rgb(9, 9, 91);
+    font-size: 20px;
+    font-style: normal;
+    color: bisque;
+}
+h1{
+    color: rgb(222, 122, 0);
+}
+.imagens{
+    justify-content:center ;
+    border-radius: 5px;
+    box-shadow: 10px 4px 100px rgba(255, 255, 255, 0.446);
+    align-items: CENTER;
+}

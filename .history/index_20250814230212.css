@@ -2,12 +2,12 @@ body{
     background: rgba(9, 108, 189, 0.612);
     font-size: 20px;
     font-style: normal;
-    color: rgb(0, 0, 0);
+    color: bisque;
 }
 h1{
     color: rgb(222, 174, 0);
     text-align: center;
-    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.355);
+    box
 }
 .imagens{
     border-radius: 5px;
@@ -15,8 +15,4 @@ h1{
 }
 #bom_dia{
     text-align: center;
-}
-#texto{
-    border-radius: 4px;
-    background: rgba(255, 255, 255, 0.444);
 }

@@ -2,7 +2,7 @@ body{
     background: rgba(9, 108, 189, 0.612);
     font-size: 20px;
     font-style: normal;
-    color: rgb(0, 0, 0);
+    color: bisque;
 }
 h1{
     color: rgb(222, 174, 0);
@@ -18,5 +18,5 @@ h1{
 }
 #texto{
     border-radius: 4px;
-    background: rgba(255, 255, 255, 0.444);
+    
 }
